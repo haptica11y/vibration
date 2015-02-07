@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/"
+    version="2005-1" xml:lang="en">
+    <head>
+        <meta name="dtb:uid" content="code.google.com.epub-samples.widget-quiz"/>
+    </head>
+    <docTitle>
+        <text>Geometry</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="ch1" playOrder="1">
+            <navLabel>
+                <text>Geometric Shapes</text>
+            </navLabel>
+            <content src="chap1.xhtml"/>
+        </navPoint>
+		<navPoint id="ch2" playOrder="2">
+            <navLabel>
+                <text>What is a Square?</text>
+            </navLabel>
+            <content src="chap2.xhtml"/>
+        </navPoint>
+				<navPoint id="ch3" playOrder="3">
+            <navLabel>
+                <text>What is a Circle?</text>
+            </navLabel>
+            <content src="chap3.xhtml"/>
+        </navPoint>
+				<navPoint id="ch4" playOrder="4">
+            <navLabel>
+                <text>What is a Triangle?</text>
+            </navLabel>
+            <content src="chap4.xhtml"/>
+        </navPoint>
+				<navPoint id="ch5" playOrder="5">
+            <navLabel>
+                <text>What is This?</text>
+            </navLabel>
+            <content src="chap5.xhtml"/>
+        </navPoint>
+				<navPoint id="ch6" playOrder="6">
+            <navLabel>
+                <text>1</text>
+            </navLabel>
+            <content src="chap6.xhtml"/>
+        </navPoint>
+				<navPoint id="ch7" playOrder="7">
+            <navLabel>
+                <text>2</text>
+            </navLabel>
+            <content src="chap7.xhtml"/>
+        </navPoint>
+				<navPoint id="ch8" playOrder="8">
+            <navLabel>
+                <text>3</text>
+            </navLabel>
+            <content src="chap8.xhtml"/>
+         </navPoint>
+				<navPoint id="ch9" playOrder="9">
+            <navLabel>
+                <text>4</text>
+            </navLabel>
+            <content src="chap9.xhtml"/>
+         </navPoint>
+				<navPoint id="ch10" playOrder="10">
+            <navLabel>
+                <text>5</text>
+            </navLabel>
+            <content src="chap10.xhtml"/>
+         </navPoint>
+				<navPoint id="ch11" playOrder="11">
+            <navLabel>
+                <text>6</text>
+            </navLabel>
+            <content src="chap11.xhtml"/>
+        </navPoint>
+				<navPoint id="ch12" playOrder="12">
+            <navLabel>
+                <text>7</text>
+            </navLabel>
+            <content src="chap12.xhtml"/>
+        </navPoint>
+				<navPoint id="ch13" playOrder="13">
+            <navLabel>
+                <text>8</text>
+            </navLabel>
+            <content src="chap13.xhtml"/>
+        </navPoint>
+		<navPoint id="ch14" playOrder="14">
+            <navLabel>
+                <text>9</text>
+            </navLabel>
+            <content src="chap14.xhtml"/>
+        </navPoint>
+		<navPoint id="ch15" playOrder="15">
+            <navLabel>
+                <text>The End</text>
+            </navLabel>
+            <content src="chap15.xhtml"/>
+        </navPoint>
+
+		</navMap>
+</ncx>
